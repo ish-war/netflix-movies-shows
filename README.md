@@ -1,5 +1,8 @@
 # netflix-movies-shows
 
+![image](https://github.com/user-attachments/assets/1abe325a-96b7-4865-b6f2-69b45f3f84b9)
+
+
 ## Problem Statement
 This project aims to:
 
@@ -29,3 +32,13 @@ This dataset consists of TV shows and movies available on Netflix as of 2019. Th
 This analysis revealed key insights into the Netflix catalog. Despite an increasing focus on TV shows, movies still dominate the platform. The clustering approach, leveraging attributes such as cast, country, genre, director, rating, and description, effectively grouped content into meaningful categories. The content-based recommender system, built using cosine similarity, offers personalized recommendations, enhancing user experience. Insights into country-specific content availability can guide strategic content acquisition and production, catering to diverse markets.
 
 By leveraging advanced analytics and machine learning techniques, Netflix can continue to offer a superior streaming experience, ensuring sustained growth and competitive advantage in the entertainment industry.
+
+## EDA
+
+![image](https://github.com/user-attachments/assets/5d93d85d-a72c-4ccd-b98b-6cbafb1988be)
+
+![image](https://github.com/user-attachments/assets/76d47f43-7175-4a9b-8911-92bb0e8a3adc)
+
+![image](https://github.com/user-attachments/assets/c1c66416-3bf3-4925-87a2-5b37d00ea758)
+
+
